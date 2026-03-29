@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+mlruns/
+.pytest_cache/
+.coverage
+htmlcov/
+models/*.joblib
+.DS_Store
