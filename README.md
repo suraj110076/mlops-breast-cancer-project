@@ -146,5 +146,5 @@ git push -u origin main
 - pytest
 - Docker
 - GitHub Actions
-# safe
+# safety
 
